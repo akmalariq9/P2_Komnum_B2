@@ -1,5 +1,5 @@
 # P2_Komnum_B2
-Repository Praktikum 2 Komputasi Numerik
+**Repository Praktikum 2 Komputasi Numerik ( B ) - Kelompok 2**
 
 ## **Anggota Kelompok**
 | Nama                     | NRP        | Kelas    |
